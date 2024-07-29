@@ -1,4 +1,3 @@
-"# Tic-Tac-Toe-game-App" 
 # Tic-Tac-Toe
 
 A simple Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript that i make to empower.
