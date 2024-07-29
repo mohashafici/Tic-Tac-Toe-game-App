@@ -20,6 +20,7 @@ A simple Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript that i make
 ## Project Structure
 
 tic-tac-toe/
+
 ├── index.html
 ├── style.css
 ├── script.js
@@ -42,6 +43,11 @@ tic-tac-toe/
 ## Motivation
 
 I created this app to showcase my skills and abilities in JavaScript. It serves as a practice project to enhance my coding proficiency and demonstrate my capacity to write clean and functional code.
+
+## Live Demo
+
+Check out the live demo [here](https://mohashafici.netlify.app/).
+
 
 ## Contributing
 
