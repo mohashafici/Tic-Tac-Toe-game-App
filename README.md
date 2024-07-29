@@ -21,10 +21,10 @@ A simple Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript that i make
 
 tic-tac-toe/
 
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+index.html
+style.css
+script.js
+ README.md
 
 
 
